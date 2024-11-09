@@ -1,4 +1,4 @@
-package net.cinechart.mobile.ui.theme
+package net.cinechart.mobile.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
